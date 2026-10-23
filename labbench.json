@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.0/labbench_0.1.0_windows_amd64.zip",
+            "bin": [
+                "labbench.exe"
+            ],
+            "hash": "a21bd2728dcf739320bcfc999ab554ec227e71206939cb3c32aef8cd1304e5ec"
+        },
+        "arm64": {
+            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.0/labbench_0.1.0_windows_arm64.zip",
+            "bin": [
+                "labbench.exe"
+            ],
+            "hash": "dd2423b315c205c9689133047cdcebee1b25adf88242cc233a6f5cf7f53f23d1"
+        }
+    },
+    "homepage": "https://labbench.xyz",
+    "description": "Drive LabBench from the terminal"
+}
