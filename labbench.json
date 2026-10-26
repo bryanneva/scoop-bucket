@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.0/labbench_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.1/labbench_0.1.1_windows_amd64.zip",
             "bin": [
                 "labbench.exe"
             ],
-            "hash": "a21bd2728dcf739320bcfc999ab554ec227e71206939cb3c32aef8cd1304e5ec"
+            "hash": "6a3e2fb047c2e563ab59961ef7770123951a54a9135ff7c33b8515000472949d"
         },
         "arm64": {
-            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.0/labbench_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/bryanneva/labbench-releases/releases/download/v0.1.1/labbench_0.1.1_windows_arm64.zip",
             "bin": [
                 "labbench.exe"
             ],
-            "hash": "dd2423b315c205c9689133047cdcebee1b25adf88242cc233a6f5cf7f53f23d1"
+            "hash": "0e81c73643411e76c2ef93d923f68d41d46ed9f120bd04b8375557542f29145e"
         }
     },
     "homepage": "https://labbench.xyz",
